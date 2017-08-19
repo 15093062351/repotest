@@ -2,7 +2,7 @@
 public class a {
 
 	
-	int a = 1;
+	int a = 2;
 	
 	
 }
